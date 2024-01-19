@@ -1,0 +1,15 @@
+.auth__link-login {
+    display: block;
+    width: 100%;
+    margin: 0 auto 35px;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+}
+
+.auth__link-login:hover {
+    cursor: pointer;
+    opacity: 0.6;
+}

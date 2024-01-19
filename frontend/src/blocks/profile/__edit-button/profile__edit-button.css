@@ -1,0 +1,30 @@
+.profile__edit-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0;
+  background: transparent;
+  margin: 0;
+  padding: 0;
+  width: 18px;
+  height: 18px;
+  border: 1px solid #fff;
+  background-image: url(../../../images/pen-logo.svg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: 7, 5px 7, 5px;
+  position: relative;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 910px) {
+  .profile__edit-button {
+    width: 24px;
+    height: 24px;
+    background-size: 10px 10px;
+  }
+}
+
+.profile__edit-button:hover {
+  opacity: 0.6;
+}

@@ -1,0 +1,12 @@
+.header__logout {
+    display: block;
+    max-height: 22px;
+    padding: 0;
+    border: none;
+    background: transparent;
+    color: #a9a9a9;
+    cursor: pointer;
+    margin-left: 24px;
+
+}
+

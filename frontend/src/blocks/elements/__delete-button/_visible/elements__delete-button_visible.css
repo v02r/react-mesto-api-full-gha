@@ -1,0 +1,4 @@
+.elements__delete-button_visible {
+  visibility: visible;
+  pointer-events: all;
+}

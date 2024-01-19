@@ -1,0 +1,10 @@
+.header__user {
+    display: flex;
+    padding: 0;
+    font-size: 18px;
+    line-height: 22px;
+    font-family: 'Inter', sans-serif;
+    color: #fff;
+    margin-top: 6px;
+}
+

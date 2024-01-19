@@ -1,0 +1,6 @@
+.elements__title_like-block {
+  display: flex;
+  flex-direction: column;
+  max-width: 22px;
+  width: 100%;
+}
